@@ -1,4 +1,6 @@
 # DMP-for-SHRI
+[![DOI](https://zenodo.org/badge/123431540.svg)](https://zenodo.org/badge/latestdoi/123431540)
+
 Complementary content for the paper "Drivers’ Manoeuvre Prediction for Safe HRI"
 
 ## Video
