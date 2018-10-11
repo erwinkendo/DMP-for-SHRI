@@ -7,9 +7,11 @@ Complementary content for the paper "Drivers’ Manoeuvre Prediction for Safe HR
 <a href="https://www.researchgate.net/publication/327955431_Drivers'_Manoeuvre_Prediction_for_Safe_HRI"><img src="https://i1.rgstatic.net/ii/institution.image/AS%3A267458164789257%401440778403888_l" alt="Researchgate" width="60" height="60">
 
 ## Video
-As part of the submission for IROS 2018, an explanatory video was created. [Click here](https://youtu.be/xKcksbD8KfI)
+As part of the submission for IROS 2018, an explanatory video was created. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=xKcksbD8KfI
+[Click here](https://www.youtube.com/watch?v=2GDQ_VWTm90)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2GDQ_VWTm90
 " target="_blank"><img src="http://img.youtube.com/vi/xKcksbD8KfI/0.jpg" 
 alt="DMP-for-SHRI" width="480" height="420" border="10" /></a>
 
